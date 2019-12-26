@@ -1,0 +1,9 @@
+#basket{
+    display: flex;
+}
+
+#div_input_delivery,
+#div_comment,
+#thanks{
+    display: none;
+}
